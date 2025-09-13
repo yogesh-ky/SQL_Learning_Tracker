@@ -1,1 +1,9 @@
 Day 1 Learnings
+# Day 1 – SQL Scenario-Based Questions  
+Four real-world SQL solutions for customer returns, price categorization, buyer activity, and supplier overlap.  
+
+
+1. Write an SQL to find list of customers along with their return percent (Round to 2 decimal places), display the output in ascending order of customer name. 
+2.Write a SQL query to count number of products in each category based on its price into three categories below. Display the output in descending order of no of products. 
+3.Write a solution to find for each user, the join date and the number of orders they made as a buyer in 2019. 
+4.Write a query to find products that are sold by both Supplier A and Supplier B, excluding products sold by only one supplier.
